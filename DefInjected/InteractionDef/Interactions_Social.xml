@@ -23,7 +23,7 @@
   <Chitchat.logRulesInitiator.rulesStrings>
     <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
     <li>r_logentry->[INITIATOR_nameDef] y [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
-    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] a [RECIPIENT_nameDef].</li>
     <li>talkedabout(p=4)->hablaron sobre</li>
     <li>talkedabout->platicaron sobre</li>
     <li>talkedabout->charlaron sobre</li>
